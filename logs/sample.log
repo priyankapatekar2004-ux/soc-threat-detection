@@ -1,4 +1,12 @@
 User login successful
-Failed password attempt
-Unauthorized access detected
+System running normally
+User login successful
+Failed password attempt for user admin
+User login successful
+Unauthorized access detected from IP 192.168.1.10
+System running normally
+Error while accessing secure database
+Multiple failed login attempts detected
+Possible attack detected on server
+User logout successful
 System running normally
